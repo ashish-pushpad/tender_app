@@ -1,0 +1,53 @@
+# Node modules
+node_modules/
+
+# Dependency lock files
+package-lock.json
+yarn.lock
+
+# Build output
+/build/
+
+# Logs
+*.log
+
+# Debug files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+
+# OS generated files
+.DS_Store       # macOS
+Thumbs.db       # Windows
+
+# IDE/editor settings
+.vscode/
+.idea/
+*.sublime-workspace
+
+# Coverage output from testing
+coverage/
+
+# Temporary files
+*.swp
+*.bak
+
+# Storybook (if using)
+storybook-static/
+
+# Parcel (if using)
+.cache/
+
+# Next.js (if using Next.js with React)
+.next/
+
+# React Native (if applicable)
+.expo/
+
+# Jest cache (if using Jest for testing)
+jest-cache/
+
+

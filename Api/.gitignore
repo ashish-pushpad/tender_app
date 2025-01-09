@@ -1,0 +1,36 @@
+# Node modules
+node_modules/
+
+# Dependency lock files (if you want to ignore them)
+package-lock.json
+yarn.lock
+
+# Logs
+*.log
+
+# Debug files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+
+# OS generated files
+.DS_Store       # macOS
+Thumbs.db       # Windows
+
+# IDE and editor settings
+.vscode/
+.idea/
+
+# Build output
+/dist/
+build/
+out/
+*.bak
+*.swp
+
+# Coverage output from testing
+coverage/
+
